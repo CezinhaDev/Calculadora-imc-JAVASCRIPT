@@ -25,6 +25,4 @@ Abra o arquivo index.htmlem seu navegador.
 Contribuições
 Sinta-se à vontade para contribuir com melhorias ou sugestões! Abra um problema ou inveja um pull request.
 
-Contato
-Para mais informações, entre em contato comigo através do [ seu -email @example .com ].
 
